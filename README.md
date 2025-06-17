@@ -54,7 +54,7 @@ Currently exploring the potential of AI-powered tools, web technologies, and IoT
 
 ### 📫 Let's Connect
 
-- 🔗 [LinkedIn](https://linkedin.com/in/achraf-bouiguigne)  
+- 🔗 [LinkedIn](https://www.linkedin.com/in/achraf-bouiguigne-9128711a2/)  
 - 💻 [GitHub](https://github.com/achrafbouiguigne)  
 - 📧 bouiguigneachraf@gmail.com
 
