@@ -1,6 +1,6 @@
 ## 👋 Hi, I'm Achraf Bouiguigne
 
-🎓 First-year Software Engineering student at INPT (Institut National des Postes et Télécommunications) in Rabat.  
+🎓  Software Engineering student at INPT (Institut National des Postes et Télécommunications) in Rabat.  
 🚀 Passionate about generative AI, full-stack development, and building impactful tech solutions.
 
 ---
