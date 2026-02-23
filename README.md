@@ -1,4 +1,4 @@
-![Header](https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,100:302b63&height=200&section=header&text=Achraf%20Bouiguigne&fontSize=40&fontColor=ffffff&fontAlignY=38&desc=Full-Stack%20%26%20DevOps%20Engineer&descAlignY=58&descColor=aaaaaa)
+![Banner](./3d-rendering-cartoon-cacti-with-friendly-face.jpg)
 
 # Hey, I'm Achraf
 
@@ -45,5 +45,3 @@ Currently working on **TechBuzz**, leading algo sessions at Club CIT, and huntin
 ### Find me
 
 [LinkedIn](https://www.linkedin.com/in/achraf-bouiguigne-9128711a2/) · [GitHub](https://github.com/achrafbouiguigne) · bouiguigneachraf@gmail.com
-
-![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:302b63,100:0f0c29&height=100&section=footer)
